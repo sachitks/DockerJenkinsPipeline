@@ -2,8 +2,8 @@ public class JavaProgram {
 
 public static void main(String args[]) {
 
-System.out.print("I am your Java Program. Thank you");
-System.out.print("Second version of the program");
+System.out.print("I am your Java Program. Thank you\n");
+System.out.print("Second version of the program\n");
 
 }
 
